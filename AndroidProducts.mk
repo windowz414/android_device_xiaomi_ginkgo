@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_ginkgo.mk
+    $(LOCAL_DIR)/stellar_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_ginkgo-user \
-    aosp_ginkgo-userdebug \
-    aosp_ginkgo-eng
+    stellar_ginkgo-user \
+    stellar_ginkgo-userdebug \
+    stellar_ginkgo-eng
