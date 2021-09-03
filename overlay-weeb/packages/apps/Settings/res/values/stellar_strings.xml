@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Stellar Device Info -->
+    <string name="stellar_device_name_summary">Xiaomi Redmi Note 8</string>
+    <string name="stellar_chipset_type_summary">Qualcomm Snapdragon™ 665</string>
+    <string name="stellar_gpu_summary">Qualcomm Adreno 610</string>
+    <string name="stellar_camera_mp_summary">45MP+8MP+2MP+2MP Quad Camera</string>
+    <string name="stellar_screen_type_summary">IPS LCD FHD+ 6.3" Screen</string>
+
+</resources>
